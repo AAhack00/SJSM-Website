@@ -151,7 +151,7 @@ ${businessName || 'N/A'}
 ✉️ ${email}`;
 
       console.log("============================================================");
-      console.log("NEW ENQUIRY RECEIVED - SHRI JAIN STATIONERY MART (EST. 1980)");
+      console.log("NEW ENQUIRY RECEIVED - SHRI JAIN STATIONERY MART (EST. 1979)");
       console.log("============================================================");
       console.log(`Timestamp: ${timestamp} IST`);
       console.log(`Source: ${source || 'Quick Quote'}`);

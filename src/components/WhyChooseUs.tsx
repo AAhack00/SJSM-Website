@@ -132,7 +132,7 @@ export default function WhyChooseUs() {
     {
       id: '3',
       title: 'Trusted Supplier',
-      description: 'Serving corporate sectors, distributors, and educational giants since 1980 with precise timeline compliance and absolute reliability.',
+      description: 'Serving corporate sectors, distributors, and educational giants since 1979 with precise timeline compliance and absolute reliability.',
       iconName: 'trusted',
     },
     {

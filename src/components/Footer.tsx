@@ -66,7 +66,7 @@ export default function Footer({ onNavClick, onQuoteClick }: FooterProps) {
             </div>
             
             <p className="font-sans text-xs text-[#111111]/75 leading-relaxed max-w-sm">
-              Impeccable wholesale stationery supplies and corporate logistics. Empowering educational schools, retail stores, and administrative hubs across India since 1980.
+              Impeccable wholesale stationery supplies and corporate logistics. Empowering educational schools, retail stores, and administrative hubs across India since 1979.
             </p>
 
             {/* Micro aesthetic tag */}

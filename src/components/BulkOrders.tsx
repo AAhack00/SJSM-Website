@@ -74,7 +74,7 @@ export default function BulkOrders({ onQuoteClick }: BulkOrdersProps) {
             Wholesale <span className="text-gold-gradient">& Bulk Logistics</span>
           </h2>
           <p className="font-sans text-xs text-[#111111]/50 max-w-lg mx-auto uppercase tracking-wider font-semibold">
-            Serving major organizations since 1980 with direct brand partnerships
+            Serving major organizations since 1979 with direct brand partnerships
           </p>
         </div>
 

@@ -89,7 +89,7 @@ export default function OpeningAnimation({ onComplete }: OpeningAnimationProps) 
                     SHRI JAIN
                   </h1>
                   <p className="font-sans text-[10px] tracking-[0.4em] text-[#D4AF37] uppercase font-bold">
-                    Stationery Mart • EST. 1980
+                    Stationery Mart • EST. 1979
                   </p>
                 </div>
 
@@ -166,7 +166,7 @@ export default function OpeningAnimation({ onComplete }: OpeningAnimationProps) 
                       SHRI JAIN
                     </h3>
                     <p className="font-sans text-[8px] tracking-widest text-[#D4AF37] uppercase font-bold">
-                      AUTHENTIC SINCE 1980
+                      AUTHENTIC SINCE 1979
                     </p>
                   </motion.div>
 
@@ -183,7 +183,7 @@ export default function OpeningAnimation({ onComplete }: OpeningAnimationProps) 
                       </h2>
                       <div className="h-[1px] w-12 bg-[#D4AF37]/60 mx-auto" />
                       <p className="font-serif italic text-[10px] md:text-xs text-[#D4AF37] font-semibold">
-                        Trusted Wholesale Stationery Since 1980
+                        Trusted Wholesale Stationery Since 1979
                       </p>
                     </div>
 

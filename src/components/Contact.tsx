@@ -140,7 +140,7 @@ export default function Contact() {
                       </span>
                       <span className="text-[9px] font-mono font-bold tracking-widest text-[#D4AF37] bg-[#D4AF37]/10 px-2.5 py-1 rounded border border-[#D4AF37]/20 uppercase flex items-center space-x-1">
                         <CalendarDays size={10} />
-                        <span>EST. 1980</span>
+                        <span>EST. 1979</span>
                       </span>
                     </div>
                     <div className="h-[2px] w-full bg-gradient-to-r from-[#D4AF37] via-[#FAF8F2] to-transparent" />

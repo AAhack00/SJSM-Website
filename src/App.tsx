@@ -107,7 +107,7 @@ export default function App() {
             onQuoteClick={handleRequestQuote} 
           />
 
-          {/* Est 1980 Heritage Narrative & Owner मनोज जैन profile details */}
+          {/* Est 1979 Heritage Narrative & Owner मनोज जैन profile details */}
           <About />
 
           {/* Genuine Client Testimonials */}

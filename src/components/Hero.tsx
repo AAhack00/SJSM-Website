@@ -146,7 +146,7 @@ export default function Hero({ onExploreProducts, onContactClick, isReady }: Her
         {/* Left Column: Authentic Brand Identity & Message */}
         <div className="lg:col-span-7 flex flex-col justify-center text-left space-y-6">
           
-          {/* Authentic Heritage Tag (EST. 1980 fades in after typing finishes) */}
+          {/* Authentic Heritage Tag (EST. 1979 fades in after typing finishes) */}
           <motion.div
             initial={{ opacity: 0, y: 15 }}
             animate={startFadeIn ? { opacity: 1, y: 0 } : { opacity: 0, y: 15 }}
@@ -155,7 +155,7 @@ export default function Hero({ onExploreProducts, onContactClick, isReady }: Her
           >
             <Sparkles size={13} className="text-[#D4AF37]" />
             <span className="font-display text-[11px] font-bold tracking-[0.25em] text-[#111111]">
-              EST. 1980 • TRUSTED FOR 45+ YEARS
+              EST. 1979 • TRUSTED FOR 45+ YEARS
             </span>
           </motion.div>
 
@@ -241,7 +241,7 @@ export default function Hero({ onExploreProducts, onContactClick, isReady }: Her
                         {/* Bottom text */}
                         <text className="font-display font-extrabold tracking-[0.15em] text-[8.5px] uppercase fill-current">
                           <textPath href="#stampCircleBottom" startOffset="50%" textAnchor="middle">
-                            EST. 1980 • KOTA • RAJASTHAN
+                            EST. 1979 • KOTA • RAJASTHAN
                           </textPath>
                         </text>
                         
@@ -268,7 +268,7 @@ export default function Hero({ onExploreProducts, onContactClick, isReady }: Her
               transition={{ duration: 0.8, delay: 0.2 }}
               className="font-serif italic font-bold text-3xl sm:text-4xl md:text-5xl text-[#D4AF37] leading-tight"
             >
-              Trusted Wholesale Stationery Since 1980
+              Trusted Wholesale Stationery Since 1979
             </motion.h2>
           </div>
 
@@ -312,7 +312,7 @@ export default function Hero({ onExploreProducts, onContactClick, isReady }: Her
             className="pt-8 grid grid-cols-3 gap-6 border-t border-[#D4AF37]/20 max-w-md"
           >
             <div>
-              <p className="font-display text-2xl text-[#D4AF37] font-bold">1980</p>
+              <p className="font-display text-2xl text-[#D4AF37] font-bold">1979</p>
               <p className="font-sans text-[10px] uppercase tracking-widest text-[#111111]/60 font-semibold">Established</p>
             </div>
             <div>
@@ -363,7 +363,7 @@ export default function Hero({ onExploreProducts, onContactClick, isReady }: Her
                 <span className="text-[8px] font-mono tracking-widest text-[#D4AF37] bg-[#D4AF37]/10 px-2 py-0.5 rounded border border-[#D4AF37]/20">ARCHIVAL</span>
               </div>
               <div className="relative z-10 my-auto text-center">
-                <p className="font-display font-bold text-[#111111] text-base tracking-widest">EST. 1980</p>
+                <p className="font-display font-bold text-[#111111] text-base tracking-widest">EST. 1979</p>
                 <p className="text-[9px] font-sans text-[#111111]/40 uppercase tracking-widest mt-1">Shri Jain Mart</p>
               </div>
               <div className="relative z-10 flex justify-between items-end border-t border-[#D4AF37]/10 pt-3">
@@ -443,7 +443,7 @@ export default function Hero({ onExploreProducts, onContactClick, isReady }: Her
 
               <div className="flex justify-between items-center text-[8px] text-[#111111]/60 font-sans">
                 <span>Set Square & scale</span>
-                <span className="text-[#D4AF37] font-bold">1980 ORIGIN</span>
+                <span className="text-[#D4AF37] font-bold">1979 ORIGIN</span>
               </div>
             </motion.div>
 

@@ -60,7 +60,7 @@ export default function About() {
               {/* Overlapping small leather capsule for trust */}
               <div className="absolute bottom-6 left-6 right-6 p-4 rounded-xl bg-white/95 border-2 border-[#D4AF37]/35 shadow-md flex items-center space-x-3 backdrop-blur-sm">
                 <div className="w-10 h-10 rounded-full bg-gradient-to-tr from-[#D4AF37] to-[#B8860B] flex items-center justify-center text-white font-display font-black text-xs shrink-0 shadow-md">
-                  1980
+                  1979
                 </div>
                 <div>
                   
@@ -78,7 +78,7 @@ export default function About() {
               transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }}
               className="absolute -right-2 top-8 z-20 px-4 py-2 bg-gradient-to-r from-[#D4AF37] to-[#B8860B] rounded-lg shadow-md border border-[#FAF8F2]/30 flex items-center space-x-1.5"
             >
-              <span className="text-[10px] font-display font-bold text-white uppercase tracking-wider">★ Heritage Since 1980</span>
+              <span className="text-[10px] font-display font-bold text-white uppercase tracking-wider">★ Heritage Since 1979</span>
             </motion.div>
           </motion.div>
 
@@ -105,7 +105,7 @@ export default function About() {
 
             <div className="space-y-4 font-sans text-sm md:text-base text-[#111111]/80 leading-relaxed">
               <p>
-                Established in <strong>1980</strong>, <strong>Shri Jain Stationery Mart</strong> has built more than four decades of excellence as Rajasthan's premier wholesale and distribution gateway for top-tier corporate, administrative, and academic stationery.
+                Established in <strong>1979</strong>, <strong>Shri Jain Stationery Mart</strong> has built more than four decades of excellence as Rajasthan's premier wholesale and distribution gateway for top-tier corporate, administrative, and academic stationery.
               </p>
               <p>
                  We act as a highly dependable directly-sourcing pipeline, linking major global production lines with local retail networks and elite organizations.
