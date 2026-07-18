@@ -1,0 +1,6 @@
+{
+  "name": "Shri Jain Stationery Mart",
+  "description": "Premium wholesale stationery solutions and corporate supply. A luxurious 3D business experience featuring school, office, art, and premium writing supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
