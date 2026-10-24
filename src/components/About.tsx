@@ -49,12 +49,16 @@ export default function About() {
 
             {/* Core Image container styled like a premium directory binder */}
             <div className="absolute inset-4 rounded-2xl overflow-hidden border-2 border-[#D4AF37]/35 shadow-[0_12px_35px_rgba(170,124,17,0.06)] z-10 group bg-white">
-              <img
-                src="https://drive.google.com/file/d/1Y0Q115Xn7XoCFosiCVFuzBYqDRkpOqQN/view?usp=drivesdk"
-                alt="Executive study desk with stationery, pens, paper clips and premium diary"
-                referrerPolicy="no-referrer"
-                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-              />
+            <img
+              src="https://drive.google.com/thumbnail?id=1Y0Q115Xn7XoCFosiCVFuzBYqDRkpOqQN&sz=w2000"
+              alt="Executive study desk with stationery, pens, paper clips and premium diary"
+              className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+              loading="lazy"
+              onError={(e) => {
+                e.currentTarget.onerror = null;
+                e.currentTarget.src = "/images/executive-study-desk.jpg";
+              }}
+            />
               <div className="absolute inset-0 bg-gradient-to-t from-[#FFFDF8] via-transparent to-transparent opacity-90 group-hover:opacity-75 transition-opacity" />
               
               {/* Overlapping small leather capsule for trust */}
