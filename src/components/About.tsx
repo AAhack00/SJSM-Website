@@ -50,7 +50,7 @@ export default function About() {
             {/* Core Image container styled like a premium directory binder */}
             <div className="absolute inset-4 rounded-2xl overflow-hidden border-2 border-[#D4AF37]/35 shadow-[0_12px_35px_rgba(170,124,17,0.06)] z-10 group bg-white">
               <img
-                src="https://lh3.googleusercontent.com/grass-cs/ANxoTn3pPpCJj-vlkQBSdyTQjLeCTJz-TjFtXBBynrK-igJCGYIByICF7pX2Rbh4xc2UhQIlJDaRlEc3yNmeU3DPI5xAsLBnPN-tkDy6797ihDcF6lYiPuwYObdHaisp5_alpvq5XQRqGDY2Yq1v=s2560-w2560-h1262-rw"
+                src="https://drive.google.com/file/d/1Y0Q115Xn7XoCFosiCVFuzBYqDRkpOqQN/view?usp=drivesdk"
                 alt="Executive study desk with stationery, pens, paper clips and premium diary"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
