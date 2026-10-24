@@ -1,4 +1,3 @@
-```typescript
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 import nodemailer from "nodemailer";
 
@@ -356,4 +355,3 @@ Phone: +91 9414231059`;
     });
   }
 }
-```
